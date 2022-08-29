@@ -20,6 +20,10 @@ main {
     padding: 20px;
 }
 
+h1, h3 {
+    color: var(--very-dark-blue);
+}
+
 .introduction {
     display: flex;
     flex-direction: column;
