@@ -9,6 +9,7 @@
     --very-light-gray: hsl(0, 0%, 98%);
 
     font-family: 'Poppins', sans-serif;
+    background-color: var(--very-light-gray);
 }
 
 main {
